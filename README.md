@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ayushi Kumari - web devloper,data science,ML Enthusiast</title>
+    <title>Allu.Deekshita- web devloper,data science,ML Enthusiast</title>
     <link rel="stylesheet" href="ayushi.css">
 </head>
 <body>
