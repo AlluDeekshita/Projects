@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ayushi Kumari - web devloper,data science,ML Enthusiast</title>
+    <link rel="stylesheet" href="ayushi.css">
+</head>
+<body>
+    <div class="container">
+    <div class="sidebar">
+        <nav>
+            <ul>
+                <li><a href="/">home</a></li>
+                <li><a href="/SAMPLE_intro.html">My intro</a></li>
+                <!-- <li><a href="/SAMPLE_education.html">Education</a></li> -->
+                <li><a href="/SAMPLE_skill.html">Skill</a></li>
+                <li><a href="/SAMPLE_contact.html">Contact Me</a></li>
+            </ul>
+        </nav>
+    </div>
+
+    <div class="main">
+      <div class="infoContainer">
+        <div class="devinfo">
+            <div class="hello">
+                Hello I am </div>
+            <div class="name">Ayushi Kumari</div>
+            <div class="about">student at iit bhu, persuaing electronics engineering. Enthusiastic
+                 about dev,ML,data science and colledge life also</div>
+            <div class="buttons">
+             <a href="/contact.html"><button>Contact me</button></a>   
+            </div>
+            
+
+        </div>
+
+      </div>
+    </div>
+</div>
+
+</body>
+</html>
