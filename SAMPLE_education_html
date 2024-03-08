@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ayushi Kumari - web devloper,data science,ML Enthusiast</title>
-    <link rel="stylesheet" href="ayushi.css">
+    <title>Allu.Deekshita - web devloper,data science,ML Enthusiast</title>
+    <link rel="stylesheet" href="deekshita.css">
 </head>
 <body>
     <div class="container">
@@ -26,7 +26,7 @@
         <div class="devinfo">
             <div class="hello">
                 Hello I am </div>
-            <div class="name">Ayushi Kumari</div>
+            <div class="name">Deekshita</div>
             <div class="about">student at iit bhu, persuaing electronics engineering. Enthusiastic
                  about dev,ML,data science and colledge life also</div>
             <div class="buttons">
